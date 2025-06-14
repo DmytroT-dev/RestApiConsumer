@@ -4,7 +4,7 @@ package com.javaee;
  * Hello world!
  *
  */
-public class App 
+public class RestApiConsumer
 {
     public static void main( String[] args )
     {
